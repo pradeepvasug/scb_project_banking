@@ -2,6 +2,7 @@ import java.util.Scanner;
 import java.io.File;
 import java.io.IOException;
 import java.io.inputfiles;
+import java.io.inputfiles;
 
 public class ReadAndPrintScores
 {
